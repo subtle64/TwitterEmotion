@@ -1,2 +1,2 @@
 # TwitterEmotion
-TweetEval dataset emoton analysis using deep learning.
+TweetEval dataset emotion analysis using deep learning.
